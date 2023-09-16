@@ -1,0 +1,2 @@
+from HomePage import *
+HmPg()
