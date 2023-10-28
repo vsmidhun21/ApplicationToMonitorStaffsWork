@@ -1,5 +1,6 @@
 # Application To Monitor Staffs Work
 <img alt="Digital Marketing" width="100%" src="https://dunesfactory.com/wp-content/uploads/2020/04/desktop_development.gif">
+
 # Description
 The "Windows Application to Monitor Staff's Work" is a powerful and user-friendly solution designed to facilitate efficient staff management and productivity tracking in organizations. Developed using Python GUI (Tkinter) for the frontend and Microsoft SQL Server with the pypyodbc library for the backend, this application offers a comprehensive tool for monitoring, analyzing, and optimizing staff performance.
 
