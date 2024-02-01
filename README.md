@@ -19,4 +19,12 @@ https://github.com/vsmidhun21/ApplicationToMonitorStaffsWork/assets/114806736/e3
 Step 1:
 <img alt="Step1" width="100%" src="./Slide1.JPG">
 Step 2:
-<img alt="Step1" width="100%" src="./Slide2.JPG">
+<img alt="Step2" width="100%" src="./Slide2.JPG">
+Step 3:
+Create the Databse accordingly with the table details given below.
+Don't Change the Table name and the Data Type of the coloum.
+If You Change the Database Details such as table name, column name then you have to change those details inside every file in the project.
+<img alt="DB1" width="100%" src="./Screenshot1">
+<img alt="DB2" width="100%" src="./Screenshot2">
+<img alt="DB3" width="100%" src="./Screenshot3">
+<img alt="DB4" width="100%" src="./Screenshot4">
