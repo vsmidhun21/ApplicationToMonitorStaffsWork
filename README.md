@@ -17,4 +17,4 @@ https://github.com/vsmidhun21/ApplicationToMonitorStaffsWork/assets/114806736/e3
 
 # Steps To Do Before Running
 
-<img alt="Step1" width="100%" src="slide1.jpg">
+<img alt="Step1" width="100%" src="Slide1.jpg">
