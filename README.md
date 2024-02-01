@@ -11,8 +11,6 @@ The "Windows Application to Monitor Staff's Work" is a powerful and user-friendl
 - Data Integrity: Microsoft SQL Server, coupled with pypyodbc, guarantees data integrity, scalability, and reliability, ensuring that staff-related information is secure and easily retrievable.
 
 # Demonstartion Video
-
-
 https://github.com/vsmidhun21/ApplicationToMonitorStaffsWork/assets/114806736/e39db0ce-b8da-47f3-9609-68498ae33560
 
 # Steps To Do Before Running
@@ -21,10 +19,10 @@ Step 1:
 Step 2:
 <img alt="Step2" width="100%" src="./Slide2.JPG">
 Step 3:
-Create the Databse accordingly with the table details given below.
-Don't Change the Table name and the Data Type of the coloum.
-If You Change the Database Details such as table name, column name then you have to change those details inside every file in the project.
-- employeeFill Table Details
+- Create the Databse accordingly with the table details given below.
+- Don't Change the Table name and the Data Type of the coloum.
+- If You Change the Database Details such as table name, column name then you have to change those details inside every file in the project.
+EmployeeFill Table Details
 <img alt="DB1" width="100%" src="./Screenshot1.png">
 Name Table Details
 <img alt="DB2" width="100%" src="./Screenshot2.png">
