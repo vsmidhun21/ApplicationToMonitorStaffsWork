@@ -16,5 +16,7 @@ The "Windows Application to Monitor Staff's Work" is a powerful and user-friendl
 https://github.com/vsmidhun21/ApplicationToMonitorStaffsWork/assets/114806736/e39db0ce-b8da-47f3-9609-68498ae33560
 
 # Steps To Do Before Running
-
+Step 1:
 <img alt="Step1" width="100%" src="./Slide1.JPG">
+Step 2:
+<img alt="Step1" width="100%" src="./Slide2.JPG">
