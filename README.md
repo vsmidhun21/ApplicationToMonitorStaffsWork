@@ -24,7 +24,11 @@ Step 3:
 Create the Databse accordingly with the table details given below.
 Don't Change the Table name and the Data Type of the coloum.
 If You Change the Database Details such as table name, column name then you have to change those details inside every file in the project.
+- employeeFill Table Details
 <img alt="DB1" width="100%" src="./Screenshot1.png">
+Name Table Details
 <img alt="DB2" width="100%" src="./Screenshot2.png">
+Project Table Details
 <img alt="DB3" width="100%" src="./Screenshot3.png">
+Work Table Details
 <img alt="DB4" width="100%" src="./Screenshot4.png">
